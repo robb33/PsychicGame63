@@ -1,3 +1,3 @@
 # PsychicGame63
 
-Text-based Browser game that feature dynamically updated HTML5 powered by JavaScript
+Text-based Browser game that features dynamically updated HTML5 powered by JavaScript
